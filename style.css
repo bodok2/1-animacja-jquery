@@ -1,0 +1,21 @@
+.box {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    overflow: hidden;
+    clear: both;
+}
+
+#btn {
+    width: 100px;
+    height: 50px;
+    align-self: center;
+}
+
+h2 {
+    display: none;
+    text-align: center;
+    font-size: medium;
+    color: white;
+}
